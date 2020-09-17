@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Home](README.md)
+* [Hi, I'm Thomas Leong](README.md)
 
 ## List of Projects
 
-* [Untitled](list-of-projects/untitled-1.md)
-* [Untitled](list-of-projects/untitled.md)
+* [Unmanned Surface Vehicle](list-of-projects/usv.md)
+* [Underwater Robot for Environmental Protection](list-of-projects/rov.md)
 
