@@ -4,10 +4,6 @@ description: Sep 2014 – Jun 2016
 
 # Underwater Robot for Environmental Protection
 
-## Introduction Video \(Cantonese\)
-
-{% embed url="https://www.youtube.com/watch?v=sICZuYhTUy8" caption="Introduction Video" %}
-
 ## Project Abstract
 
 Simple Exploring Underwater Robot for Environmental Protection is an **underwater robot** which allows people and especially students to do experiments, researches and explore the marine environment.
