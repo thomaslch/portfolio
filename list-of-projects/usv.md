@@ -6,13 +6,9 @@ description: Jun 2016 – Jun 2017
 
 **Smart Pleco** – A Multi-Functional Eco-friendly USV for Waterbodies Protection
 
-Awards and Honours Obtained
+{% embed url="https://www.youtube.com/watch?v=iDWR7wM1gRQ" caption="Demo Video" %}
 
-| Year | Award |
-| :--- | :--- |
-| 2017 | 3rd Place Grand Award in Environmental Engineering, Intel International Science and Engineering Fair \(Intel ISEF\) |
-| 2017 | First Runner-up Award in International Competition on 2nd Life for Retired Batteries from Electric Vehicles |
-| 2016 | Merit Award in Asia Pacific Information and Communication Technology Alliance Awards \(APICTA\) |
+## Project Abstract
 
 Given the considerable threat water pollution poses to the ecosystem, Smart Pleco, an Unmanned Surface Vehicle \(USV\) designed to **track pollution sources** in relatively small water bodies, could be the solution. While **automated** **data collection** can generate paths in accordance with waterbody outline, fixed-point sampling enables customized coordinates data collection. Mainly 4 types of data: pH, conductivity, dissolved oxygen, and temperature, can be retrieved and the corresponding pollution type can be identified with reference to the water pollution index from Guidelines for Drinking-water Quality \(WHO 2011, p.226-230\). Changes in pH, conductivity, DO and temperature and their **correlation may indicate possible sources of pollution** \(e.g. inorganic pollution, plant nutrient pollution\).
 
@@ -22,5 +18,13 @@ Given the considerable threat water pollution poses to the ecosystem, Smart Plec
 
 ![Figure 2: A closer look of Smart Pleco](../.gitbook/assets/image%20%281%29.png)
 
+## Awards and Honours Obtained
 
+| Year | Award |
+| :--- | :--- |
+| 2017 | 3rd Place Grand Award in Environmental Engineering, Intel International Science and Engineering Fair \(Intel ISEF\) |
+| 2017 | First Runner-up Award in International Competition on 2nd Life for Retired Batteries from Electric Vehicles |
+| 2016 | Merit Award in Asia Pacific Information and Communication Technology Alliance Awards \(APICTA\) |
+
+## 
 
