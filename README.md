@@ -12,7 +12,7 @@ description: Web | Embedded | Mobile App Developer
 
 #### Tech Stack
 
-|  |  |
+| Category | Stack |
 | :--- | :--- |
 | Web | HTML, CSS, Javascript, React, ExpressJS, PHP, Laravel |
 | Mobile | React Native |
