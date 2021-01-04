@@ -2,8 +2,12 @@
 
 * [Hi, I'm Thomas Leong](README.md)
 
-## List of Projects
+## High School
 
-* [Unmanned Surface Vehicle](list-of-projects/usv.md)
-* [Underwater Robot for Environmental Protection](list-of-projects/rov.md)
+* [Unmanned Surface Vehicle](high-school/usv.md)
+* [Underwater Robot for Environmental Protection](high-school/rov.md)
+
+## Fimmick Ltd
+
+* [Coca-cola Campaign Sites](fimmick-ltd/coca-cola-campaign-sites.md)
 
