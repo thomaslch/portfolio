@@ -22,3 +22,5 @@ description: Web | Embedded | Mobile App Developer
 
 
 
+**↓↓ Visit my projects ↓↓**
+
