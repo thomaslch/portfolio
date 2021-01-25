@@ -6,7 +6,7 @@ description: Jun 2016 – Jun 2017
 
 **Smart Pleco** – A Multi-Functional Eco-friendly USV for Waterbodies Protection
 
-{% embed url="https://www.youtube.com/watch?v=iDWR7wM1gRQ" caption="Demo Video" %}
+{% embed url="https://youtu.be/6ncf1dFezPs" caption="Introduction Video" %}
 
 ## Project Abstract
 
