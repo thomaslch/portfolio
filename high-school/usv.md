@@ -1,5 +1,5 @@
 ---
-description: Jun 2016 – Jun 2017
+description: Jun 2016 – Jun 2018
 ---
 
 # Unmanned Surface Vehicle
