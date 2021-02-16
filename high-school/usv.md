@@ -26,5 +26,3 @@ Given the considerable threat water pollution poses to the ecosystem, Smart Plec
 | 2017 | First Runner-up Award in International Competition on 2nd Life for Retired Batteries from Electric Vehicles |
 | 2016 | Merit Award in Asia Pacific Information and Communication Technology Alliance Awards \(APICTA\) |
 
-## 
-
