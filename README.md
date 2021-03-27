@@ -19,6 +19,7 @@ description: Web | Embedded | Mobile App Developer
 | Infrastructure | AWS Beanstalk, Nginx, Docker |
 | Database | MySQL, MongoDB |
 | Embedded | Arduino, STM32, Robot Operating System |
+| Vision | OpenCV |
 
 
 
