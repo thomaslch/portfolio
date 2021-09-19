@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hi, I'm Thomas Leong](README.md)
+* [Visit my Github](https://github.com/chonhao)
 
 ## Fimmick Ltd
 

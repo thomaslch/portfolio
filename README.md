@@ -4,24 +4,41 @@ description: Web | Embedded | Mobile App Developer
 
 # Hi, I'm Thomas Leong
 
-#### About me
+## About me
 
 * Innovate with science and technology
 * Love idea forming and rapid prototyping
 * Value team growth more than anything else
 
-#### Tech Stack
+## Skills
 
-| Category | Stack |
-| :--- | :--- |
-| Web | HTML, CSS, Javascript, React, ExpressJS, PHP, Laravel |
-| Mobile | React Native |
-| Infrastructure | AWS Beanstalk, Nginx, Docker |
-| Database | MySQL, MongoDB |
-| Embedded | Arduino, STM32, Robot Operating System |
-| Vision | OpenCV |
+#### Development
+
+HTML, CSS, JavaScript, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++,   
+React Native
+
+#### Frameworks and Libraries
+
+TailwindCSS, NodeJS, NextJS, ExpressJS, Laravel, jQuery, Blade, Bootstrap, Wordpress
+
+#### DevOps
+
+Github Action, Gitlab CI, Jest Test, PHP unit test,   
+Kubernetes \(GKE, DOKS\), Docker-compose, AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFlare, Let's Encrypt
+
+#### Database
+
+MySQL, PostgreSQL, MongoDB
+
+#### Embedded System
+
+Arduino, ESP8266, ESP32, Robot OS, Raspberry Pi
+
+#### Vision and Machine Learning
+
+OpenCV, scikit-learn, tensor-flow
 
 
 
-**↓↓ Visit my projects ↓↓**
+**↓↓ Checkout my projects ↓↓**
 
