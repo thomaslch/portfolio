@@ -14,7 +14,7 @@ description: Web | Embedded | Mobile App Developer
 
 #### Development
 
-HTML, CSS, JavaScript, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++,   
+HTML, CSS, JavaScript, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++, \
 React Native
 
 #### Frameworks and Libraries
@@ -23,8 +23,8 @@ TailwindCSS, NodeJS, NextJS, ExpressJS, Laravel, jQuery, Blade, Bootstrap, Wordp
 
 #### DevOps
 
-Github Action, Gitlab CI, Jest Test, PHP unit test,   
-Kubernetes \(GKE, DOKS\), Docker-compose, AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFlare, Let's Encrypt
+Github Action, Gitlab CI, Jest Test, PHP unit test, \
+Kubernetes (GKE, DOKS), Docker-compose, AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFlare, Let's Encrypt
 
 #### Database
 
@@ -41,4 +41,3 @@ OpenCV, scikit-learn, tensor-flow
 
 
 **↓↓ Checkout my projects ↓↓**
-
