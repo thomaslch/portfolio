@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hi, I'm Thomas Leong](README.md)
+* [👋 Hi, I'm Thomas Leong](README.md)
 
 ## Oursky LTD
 

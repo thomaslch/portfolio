@@ -1,33 +1,35 @@
 ---
-description: Web | Embedded | Mobile App Developer
+description: Software Engineer
 ---
 
-# Hi, I'm Thomas Leong
+# 👋 Hi, I'm Thomas Leong
 
 ## About me
 
 * Innovate with science and technology
 * Love idea forming and rapid prototyping
-* Value team growth more than anything else
+* Enjoy experimenting with technologies
 
 ## Skills
 
 #### Development
 
-HTML, CSS, TypeScript, JavaScript, ReactJS, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++, React Native
+HTML, CSS, TypeScript, JavaScript, Ruby, ReactJS, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++, React Native
 
 #### Frameworks and Libraries
 
-TailwindCSS, NodeJS, NextJS, ExpressJS, Laravel, jQuery, Blade, Bootstrap, Wordpress
+Ruby on Rails, PHP Laravel, TailwindCSS, NodeJS, NextJS, ExpressJS, jQuery, Blade, Bootstrap, Wordpress
 
 #### Infrastructure
 
-Kubernetes (GKE, DOKS), Docker-compose, \
-AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFlare, Let's Encrypt
+Kubernetes (EKS, GKE, DOKS), Docker-compose, \
+AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFormation, Athena\
+Terraform, CloudFlare, Let's Encrypt
 
 #### DevOps
 
-Github Action, Gitlab CI, Jest Test, PHP unit test, ESLint, MS AppCenter&#x20;
+Circle CI, Github Action, Gitlab CI, MS AppCenter \
+Rspec, Jest Test, PHP unit test, ESLint, Rubocop
 
 #### Database
 
