@@ -8,41 +8,52 @@ description: Software Engineer
 
 * Innovate with science and technology
 * Love idea forming and rapid prototyping
-* Enjoy experimenting with technologies
+* Aim to grow as an engineer and a leader
 
 ## Skills
 
-#### Development
+#### Programming Languages
 
-HTML, CSS, TypeScript, JavaScript, Ruby, ReactJS, PHP, Sass, PostCSS, Redis, Nginx, Docker, REST, Python, Java, C, C++, React Native
+Ruby, TypeScript, JavaScript, Python, PHP, Bash, Java, C, C++.
 
-#### Frameworks and Libraries
+#### Frontend / Client Apps
 
-Ruby on Rails, PHP Laravel, TailwindCSS, NodeJS, NextJS, ExpressJS, jQuery, Blade, Bootstrap, Wordpress
+React, React Native, NextJS, Android.
 
-#### Infrastructure
+HTML, CSS, jQuery, Bootstrap, Tailwind CSS, Scss.
 
-Kubernetes (EKS, GKE, DOKS), Docker-compose, \
-AWS EC2, Beanstalk, RDS, S3, CloudFront, Lambda, CloudFormation, Athena\
-Terraform, CloudFlare, Let's Encrypt
+#### Backend
+
+Ruby on Rails, Laravel, NextJS, NodeJS, RemixJS, ExpressJS, Flask.
+
+Nginx, Redis, CloudAMQP.
+
+#### Cloud - AWS
+
+EC2, ECS, Lambda, Load balancer, CloudFront, API Gateway, RDS, Route53, Beanstalk, Amplify, S3, CloudFormation, CDK, Athena, CloudWatch, ElastiCache, Kinesis Firehose.
 
 #### DevOps
 
-Circle CI, Github Action, Gitlab CI, MS AppCenter \
-Rspec, Jest Test, PHP unit test, ESLint, Rubocop
+Kubernetes (EKS, GKE, DOKS), Docker, Helm Chart.
+
+ArgoCD, Ansible, Terraform, CloudFormation.
+
+Circle CI, Github Action, Gitlab CI, MS AppCenter.
+
+Ruby Rspec, JavaScript Jest Test, PHP unit test, ESLint, Rubocop.
 
 #### Database
 
-MySQL, PostgreSQL, MongoDB
+MySQL, PostgreSQL, MongoDB.
 
 #### Embedded System
 
-Arduino, ESP8266, ESP32, Robot OS, Raspberry Pi\
-LiDAR, gyroscope, encoder
+Arduino, ESP8266, ESP32, Robot OS, Raspberry Pi.\
+LiDAR, gyroscope, encoder.
 
 #### Vision and Machine Learning
 
-OpenCV, scikit-learn, tensor-flow
+OpenCV, scikit-learn, tensor-flow.
 
 
 
