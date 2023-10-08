@@ -4,7 +4,8 @@ This project is done as part of the internship at [Oursky Limited](https://oursk
 
 Built with NextJS with Prisma ORM. Deployed to GKE Kubernetes Cluster via GitLab CI.
 
-Site link: [https://www.getchatbutton.com/](https://www.getchatbutton.com)&#x20;
+Site link: [~~https://www.getchatbutton.com/~~](https://www.getchatbutton.com) \
+\[Update]: The project has been taken down
 
 ![GetChatButton editor page](../.gitbook/assets/2.png)
 
