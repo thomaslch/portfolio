@@ -22,8 +22,4 @@ Given the considerable threat water pollution poses to the ecosystem, Smart Plec
 
 ## Awards and Honours Obtained
 
-| Year | Award                                                                                                             |
-| ---- | ----------------------------------------------------------------------------------------------------------------- |
-| 2017 | 3rd Place Grand Award in Environmental Engineering, Intel International Science and Engineering Fair (Intel ISEF) |
-| 2017 | First Runner-up Award in International Competition on 2nd Life for Retired Batteries from Electric Vehicles       |
-| 2016 | Merit Award in Asia Pacific Information and Communication Technology Alliance Awards (APICTA)                     |
+<table data-header-hidden><thead><tr><th width="118">Year</th><th>Award</th></tr></thead><tbody><tr><td>Year</td><td>Award</td></tr><tr><td>2017</td><td><strong>3rd Place Grand Award</strong> in Environmental Engineering, <br>Intel International Science and Engineering Fair (Intel ISEF)<br><a href="https://abstracts.societyforscience.org/Home/FullAbstract?projectId=5172">https://abstracts.societyforscience.org/Home/FullAbstract?projectId=5172</a></td></tr><tr><td>2017</td><td><strong>First Runner-up Award</strong> in International Competition on 2nd Life for Retired Batteries from Electric Vehicles<br><a href="https://web.archive.org/web/20180301110658/http://www.epd.gov.hk/epd/misc/2ndEVbattery/en/event8.html">https://web.archive.org/web/20180301110658/http://www.epd.gov.hk/epd/misc/2ndEVbattery/en/event8.html</a></td></tr><tr><td>2016</td><td><strong>Merit Award</strong> in Asia Pacific Information and Communication Technology Alliance Awards (APICTA)<br><a href="https://apicta.org/past-winners/">https://apicta.org/past-winners/</a></td></tr></tbody></table>
